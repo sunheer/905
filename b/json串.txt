@@ -1,0 +1,579 @@
+{
+    "team_list": [
+        {
+            "list": [
+                {
+                    "color": "#80071b",
+                    "id": "16",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrr6Ae3A_AAAtr2JLoW4150.png",
+                    "name": "休斯敦火箭",
+                    "short_name": "火箭",
+                    "type": "club"
+                },
+                {
+                    "color": "#3f176e",
+                    "id": "26",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/35/ChM9m1vJUWOAMZTcAABF2EuzBG4204.png",
+                    "name": "洛杉矶湖人",
+                    "short_name": "湖人",
+                    "type": "club"
+                },
+                {
+                    "color": "#b57f22",
+                    "id": "17",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrr6AcmobAAAe3sUXDds953.png",
+                    "name": "金州勇士",
+                    "short_name": "勇士",
+                    "type": "club"
+                },
+                {
+                    "color": "#2d6640",
+                    "id": "2",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrsGAcTB9AAAzIXN3Q3Y524.png",
+                    "name": "波士顿凯尔特人",
+                    "short_name": "凯尔特人",
+                    "type": "club"
+                },
+                {
+                    "color": "#0d0b0c",
+                    "id": "22",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrr-ATfsKAAAcV4DfpCs159.png",
+                    "name": "圣安东尼奥马刺",
+                    "short_name": "马刺",
+                    "type": "club"
+                },
+                {
+                    "color": "#0a5cc7",
+                    "id": "19",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrsCATc8cAAAuqQwJlww373.png",
+                    "name": "俄克拉荷马城雷霆",
+                    "short_name": "雷霆",
+                    "type": "club"
+                },
+                {
+                    "color": "#39131a",
+                    "id": "1",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/04/ChM9m1u_HxmAXSW6AAA7haimyQ4555.png",
+                    "name": "多伦多猛龙",
+                    "short_name": "猛龙",
+                    "type": "club"
+                },
+                {
+                    "color": "#3083bf",
+                    "id": "3",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/04/ChM9m1u_G7eAFO_pAABFGVQtzWQ853.png",
+                    "name": "费城76人",
+                    "short_name": "76人",
+                    "type": "club"
+                },
+                {
+                    "color": "#163a1b",
+                    "id": "7",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrsCATv7wAAAs0EsJ4Tk683.png",
+                    "name": "密尔沃基雄鹿",
+                    "short_name": "雄鹿",
+                    "type": "club"
+                },
+                {
+                    "color": "#0070bf",
+                    "id": "28",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrr6AJYy3AAAvtT__BoQ044.png",
+                    "name": "达拉斯独行侠",
+                    "short_name": "独行侠",
+                    "type": "club"
+                },
+                {
+                    "color": "#912d1d",
+                    "id": "18",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrsCAEwkyAAAoo3UMQ2Q443.png",
+                    "name": "波特兰开拓者",
+                    "short_name": "开拓者",
+                    "type": "club"
+                },
+                {
+                    "color": "#a98e5f",
+                    "id": "24",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrsCAHsWSAAAt9BkzJu0558.png",
+                    "name": "丹佛掘金",
+                    "short_name": "掘金",
+                    "type": "club"
+                },
+                {
+                    "color": "#531d73",
+                    "id": "32",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMGAMg6AAABT0rWM6ZE024.png",
+                    "name": "辽宁本钢",
+                    "short_name": "辽宁",
+                    "type": "club"
+                },
+                {
+                    "color": "#015fa7",
+                    "id": "37",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMGAB76EAABtd0NmZ3A779.png",
+                    "name": "北京首钢",
+                    "short_name": "北京",
+                    "type": "club"
+                },
+                {
+                    "color": "#333333",
+                    "id": "33",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/73/ChOlBlvabMGAeNOrAAB83qV7rYg464.png",
+                    "name": "广东东莞银行",
+                    "short_name": "广东",
+                    "type": "club"
+                },
+                {
+                    "color": "#0a4386",
+                    "id": "36",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/73/ChOlBlvabMCAPpemAABpZBC2-_I508.png",
+                    "name": "新疆广汇汽车",
+                    "short_name": "新疆",
+                    "type": "club"
+                },
+                {
+                    "color": "#333333",
+                    "id": "31",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChOlBlvabMKABz6KAACEW01Ri20320.png",
+                    "name": "浙江广厦控股",
+                    "short_name": "广厦",
+                    "type": "club"
+                },
+                {
+                    "color": "#721617",
+                    "id": "34",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMCAJ4RjAACoSZv3-BI316.png",
+                    "name": "山东西王",
+                    "short_name": "山东",
+                    "type": "club"
+                },
+                {
+                    "color": "#cd0016",
+                    "id": "40",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChOlBlvabMOARp2hAACXOQmF92U606.png",
+                    "name": "上海哔哩哔哩",
+                    "short_name": "上海",
+                    "type": "club"
+                },
+                {
+                    "color": "#003d5f",
+                    "id": "49",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabLiAVDZSAABwureBgn4818.png",
+                    "name": "四川五粮金樽",
+                    "short_name": "四川",
+                    "type": "club"
+                }
+            ],
+            "title": "热门"
+        },
+        {
+            "list": [
+                {
+                    "color": "#80071b",
+                    "id": "16",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrr6Ae3A_AAAtr2JLoW4150.png",
+                    "name": "休斯敦火箭",
+                    "short_name": "火箭",
+                    "type": "club"
+                },
+                {
+                    "color": "#3f176e",
+                    "id": "26",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/35/ChM9m1vJUWOAMZTcAABF2EuzBG4204.png",
+                    "name": "洛杉矶湖人",
+                    "short_name": "湖人",
+                    "type": "club"
+                },
+                {
+                    "color": "#b57f22",
+                    "id": "17",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrr6AcmobAAAe3sUXDds953.png",
+                    "name": "金州勇士",
+                    "short_name": "勇士",
+                    "type": "club"
+                },
+                {
+                    "color": "#2d6640",
+                    "id": "2",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrsGAcTB9AAAzIXN3Q3Y524.png",
+                    "name": "波士顿凯尔特人",
+                    "short_name": "凯尔特人",
+                    "type": "club"
+                },
+                {
+                    "color": "#0d0b0c",
+                    "id": "22",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrr-ATfsKAAAcV4DfpCs159.png",
+                    "name": "圣安东尼奥马刺",
+                    "short_name": "马刺",
+                    "type": "club"
+                },
+                {
+                    "color": "#0a5cc7",
+                    "id": "19",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrsCATc8cAAAuqQwJlww373.png",
+                    "name": "俄克拉荷马城雷霆",
+                    "short_name": "雷霆",
+                    "type": "club"
+                },
+                {
+                    "color": "#39131a",
+                    "id": "1",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/04/ChM9m1u_HxmAXSW6AAA7haimyQ4555.png",
+                    "name": "多伦多猛龙",
+                    "short_name": "猛龙",
+                    "type": "club"
+                },
+                {
+                    "color": "#3083bf",
+                    "id": "3",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/04/ChM9m1u_G7eAFO_pAABFGVQtzWQ853.png",
+                    "name": "费城76人",
+                    "short_name": "76人",
+                    "type": "club"
+                },
+                {
+                    "color": "#163a1b",
+                    "id": "7",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrsCATv7wAAAs0EsJ4Tk683.png",
+                    "name": "密尔沃基雄鹿",
+                    "short_name": "雄鹿",
+                    "type": "club"
+                },
+                {
+                    "color": "#0070bf",
+                    "id": "28",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrr6AJYy3AAAvtT__BoQ044.png",
+                    "name": "达拉斯独行侠",
+                    "short_name": "独行侠",
+                    "type": "club"
+                },
+                {
+                    "color": "#912d1d",
+                    "id": "18",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrsCAEwkyAAAoo3UMQ2Q443.png",
+                    "name": "波特兰开拓者",
+                    "short_name": "开拓者",
+                    "type": "club"
+                },
+                {
+                    "color": "#a98e5f",
+                    "id": "24",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrsCAHsWSAAAt9BkzJu0558.png",
+                    "name": "丹佛掘金",
+                    "short_name": "掘金",
+                    "type": "club"
+                },
+                {
+                    "color": "#063c59",
+                    "id": "23",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrr-AN6D4AAA7P9pcRH0153.png",
+                    "name": "明尼苏达森林狼",
+                    "short_name": "森林狼",
+                    "type": "club"
+                },
+                {
+                    "color": "#661414",
+                    "id": "13",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/04/ChOlBlu_HTqAcXN4AAAvoGaRto8755.png",
+                    "name": "芝加哥公牛",
+                    "short_name": "公牛",
+                    "type": "club"
+                },
+                {
+                    "color": "#933a44",
+                    "id": "6",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrsGAQHVpAAAxirN610I878.png",
+                    "name": "迈阿密热火",
+                    "short_name": "热火",
+                    "type": "club"
+                },
+                {
+                    "color": "#112e61",
+                    "id": "8",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrr2AMDAgAAArfwPZdgg662.png",
+                    "name": "华盛顿奇才",
+                    "short_name": "奇才",
+                    "type": "club"
+                },
+                {
+                    "color": "#f89729",
+                    "id": "20",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrr-AMUt_AAA97iAG0g8899.png",
+                    "name": "犹他爵士",
+                    "short_name": "爵士",
+                    "type": "club"
+                },
+                {
+                    "color": "#c8424f",
+                    "id": "9",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrr6ASbaPAABOr3cw7co043.png",
+                    "name": "底特律活塞",
+                    "short_name": "活塞",
+                    "type": "club"
+                },
+                {
+                    "color": "#245892",
+                    "id": "25",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/50/ChOlBlvT9_OAYMhBAABByPFIICQ711.png",
+                    "name": "洛杉矶快船",
+                    "short_name": "快船",
+                    "type": "club"
+                },
+                {
+                    "color": "#0d2a58",
+                    "id": "21",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrr-AfGvxAABCEywvzug940.png",
+                    "name": "新奥尔良鹈鹕",
+                    "short_name": "鹈鹕",
+                    "type": "club"
+                },
+                {
+                    "color": "#0d3478",
+                    "id": "5",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrsCAYfafAAAlyoZIAtQ844.png",
+                    "name": "印第安纳步行者",
+                    "short_name": "步行者",
+                    "type": "club"
+                },
+                {
+                    "color": "#a64a21",
+                    "id": "30",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/04/ChM9m1u_HYaAbvIwAAAsmN33BTs718.png",
+                    "name": "菲尼克斯太阳",
+                    "short_name": "太阳",
+                    "type": "club"
+                },
+                {
+                    "color": "#367b93",
+                    "id": "10",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrr-AH9SpAAAxhfIrcH0886.png",
+                    "name": "夏洛特黄蜂",
+                    "short_name": "黄蜂",
+                    "type": "club"
+                },
+                {
+                    "color": "#333333",
+                    "id": "12",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/35/ChM9m1vJUWOAJr4YAAAwPWpnJ_4428.png",
+                    "name": "布鲁克林篮网",
+                    "short_name": "篮网",
+                    "type": "club"
+                },
+                {
+                    "color": "#5f3897",
+                    "id": "27",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/35/ChOlBlvJUWOAXpJ6AAA7rijp8Xk071.png",
+                    "name": "萨克拉门托国王",
+                    "short_name": "国王",
+                    "type": "club"
+                },
+                {
+                    "color": "#bf280a",
+                    "id": "15",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrr6AW7l5AAAut5s8gtw630.png",
+                    "name": "亚特兰大老鹰",
+                    "short_name": "老鹰",
+                    "type": "club"
+                },
+                {
+                    "color": "#266999",
+                    "id": "14",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrr6Ac05HAAA8YzNpXIs701.png",
+                    "name": "奥兰多魔术",
+                    "short_name": "魔术",
+                    "type": "club"
+                },
+                {
+                    "color": "#701744",
+                    "id": "4",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChOlBlvGrsCAJvHRAAAraW5iLUg584.png",
+                    "name": "克利夫兰骑士",
+                    "short_name": "骑士",
+                    "type": "club"
+                },
+                {
+                    "color": "#0a225c",
+                    "id": "29",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/04/ChOlBlu_HuOABuGrAAAq-MTil4Y627.png",
+                    "name": "孟菲斯灰熊",
+                    "short_name": "灰熊",
+                    "type": "club"
+                },
+                {
+                    "color": "#d17933",
+                    "id": "11",
+                    "logo": "http://img1.dqdgame.com/fastdfs/M00/00/24/ChM9m1vGrr-APUPNAAAsim6actY420.png",
+                    "name": "纽约尼克斯",
+                    "short_name": "尼克斯",
+                    "type": "club"
+                }
+            ],
+            "title": "NBA"
+        },
+        {
+            "list": [
+                {
+                    "color": "#531d73",
+                    "id": "32",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMGAMg6AAABT0rWM6ZE024.png",
+                    "name": "辽宁本钢",
+                    "short_name": "辽宁",
+                    "type": "club"
+                },
+                {
+                    "color": "#015fa7",
+                    "id": "37",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMGAB76EAABtd0NmZ3A779.png",
+                    "name": "北京首钢",
+                    "short_name": "北京",
+                    "type": "club"
+                },
+                {
+                    "color": "#333333",
+                    "id": "33",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/73/ChOlBlvabMGAeNOrAAB83qV7rYg464.png",
+                    "name": "广东东莞银行",
+                    "short_name": "广东",
+                    "type": "club"
+                },
+                {
+                    "color": "#0a4386",
+                    "id": "36",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/73/ChOlBlvabMCAPpemAABpZBC2-_I508.png",
+                    "name": "新疆广汇汽车",
+                    "short_name": "新疆",
+                    "type": "club"
+                },
+                {
+                    "color": "#333333",
+                    "id": "31",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChOlBlvabMKABz6KAACEW01Ri20320.png",
+                    "name": "浙江广厦控股",
+                    "short_name": "广厦",
+                    "type": "club"
+                },
+                {
+                    "color": "#721617",
+                    "id": "34",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMCAJ4RjAACoSZv3-BI316.png",
+                    "name": "山东西王",
+                    "short_name": "山东",
+                    "type": "club"
+                },
+                {
+                    "color": "#cd0016",
+                    "id": "40",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChOlBlvabMOARp2hAACXOQmF92U606.png",
+                    "name": "上海哔哩哔哩",
+                    "short_name": "上海",
+                    "type": "club"
+                },
+                {
+                    "color": "#003d5f",
+                    "id": "49",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabLiAVDZSAABwureBgn4818.png",
+                    "name": "四川五粮金樽",
+                    "short_name": "四川",
+                    "type": "club"
+                },
+                {
+                    "color": "#b7161c",
+                    "id": "35",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/73/ChOlBlvabLqAXpC3AACAzbqY1fE546.png",
+                    "name": "苏州肯帝亚",
+                    "short_name": "江苏",
+                    "type": "club"
+                },
+                {
+                    "color": "#02407b",
+                    "id": "43",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChOlBlvabMKAXh4oAACITH8JxRE933.png",
+                    "name": "福建晋江文旅",
+                    "short_name": "福建",
+                    "type": "club"
+                },
+                {
+                    "color": "#e37500",
+                    "id": "44",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMSAESJeAACOattG6Xg074.png",
+                    "name": "山西汾酒股份",
+                    "short_name": "山西",
+                    "type": "club"
+                },
+                {
+                    "color": "#151f41",
+                    "id": "39",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/73/ChOlBlvabLmAArymAABvkNwIDAk023.png",
+                    "name": "时代中国广州",
+                    "short_name": "广州",
+                    "type": "club"
+                },
+                {
+                    "color": "#d64b20",
+                    "id": "41",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMOAT71sAACIYDwvEoQ352.png",
+                    "name": "浙江稠州银行",
+                    "short_name": "浙江",
+                    "type": "club"
+                },
+                {
+                    "color": "#d31620",
+                    "id": "45",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMSAIJW5AACOD1o2pUQ404.png",
+                    "name": "南京同曦大圣",
+                    "short_name": "同曦",
+                    "type": "club"
+                },
+                {
+                    "color": "#c92038",
+                    "id": "38",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabLmAXW7qAABZg0MODgQ220.png",
+                    "name": "深圳马可波罗",
+                    "short_name": "深圳",
+                    "type": "club"
+                },
+                {
+                    "color": "#902023",
+                    "id": "46",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMWACUvkAACHAlX4Ur8843.png",
+                    "name": "青岛国信双星",
+                    "short_name": "青岛",
+                    "type": "club"
+                },
+                {
+                    "color": "#a51e37",
+                    "id": "47",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChOlBlvabMWAMjZyAACZNwOZaKY181.png",
+                    "name": "九台农商银行",
+                    "short_name": "吉林",
+                    "type": "club"
+                },
+                {
+                    "color": "#003784",
+                    "id": "48",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/73/ChOlBlvabLiAJIIlAAB5SPeo5K4553.png",
+                    "name": "天津滨海云商",
+                    "short_name": "天津",
+                    "type": "club"
+                },
+                {
+                    "color": "#f79403",
+                    "id": "42",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChM9m1vabMKAJ2fzAACm7ODAFg0848.png",
+                    "name": "北京农商银行",
+                    "short_name": "北控",
+                    "type": "club"
+                },
+                {
+                    "color": "#441307",
+                    "id": "50",
+                    "logo": "https://img1.dqdgame.com/fastdfs/M00/00/74/ChOlBlvabMSAeMj9AACSq2YvFK4084.png",
+                    "name": "八一南昌",
+                    "short_name": "八一",
+                    "type": "club"
+                }
+            ],
+            "title": "CBA"
+        }
+    ]
+}
